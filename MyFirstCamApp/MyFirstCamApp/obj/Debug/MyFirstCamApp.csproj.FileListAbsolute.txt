@@ -1,0 +1,14 @@
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\MyFirstCamApp.dll
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\MyFirstCamApp.pdb
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.dll
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.Video.dll
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.csprojAssemblyReference.cache
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.UserControl1.resources
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.csproj.GenerateResource.cache
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.csproj.CopyComplete
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.dll
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\obj\Debug\MyFirstCamApp.pdb
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.xml
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.Video.xml
+C:\Users\Elad\source\repos\MyFirstCamApp\MyFirstCamApp\bin\Debug\AForge.Video.DirectShow.xml
